@@ -1,4 +1,4 @@
-# Power BI Project: Data Professional Survey Analysis
+# Data Career Analytics Platform
 ## Project Overview
 This project analyzes survey data collected from data professionals worldwide. The interactive Power BI dashboard provides insights into their career satisfaction, challenges, and preferences, offering a comprehensive breakdown of the data profession.
 
